@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: edge_dart_runtime
+dependency_overrides: 
+  my_example_flutter_scheme:
+    path: ../my_example_flutter_scheme

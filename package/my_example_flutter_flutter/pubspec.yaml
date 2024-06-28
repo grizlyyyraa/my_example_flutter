@@ -1,0 +1,38 @@
+name: 'my_example_flutter_flutter'
+description: 'A sample command-line application.'
+version: '0.0.0'
+homepage: 'https://github.com/grizlyyyraa/my_example_flutter'
+repository: 'https://github.com/grizlyyyraa/my_example_flutter'
+issue_tracker: 'https://github.com/grizlyyyraa/my_example_flutter/issues'
+documentation: 'https://github.com/grizlyyyraa/my_example_flutter/tree/main/docs'
+funding: 
+  - 'https://github.com/sponsors/grizlyyyraa'
+  - 'https://github.com/sponsors/grizlyyyraa'
+platforms: 
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+environment: 
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: '>=1.17.0'
+dependencies: 
+  flutter: 
+    sdk: 'flutter'
+  general_lib: '^0.0.42'
+  general_lib_flutter: '^0.0.22'
+  path: '^1.9.0'
+  universal_io: '^2.2.2'
+  my_example_flutter: '^0.0.0'
+  my_example_flutter_dart: '^0.0.0'
+  my_example_flutter_scheme: '^0.0.0'
+dev_dependencies: 
+  flutter_test: 
+    sdk: 'flutter'
+  flutter_lints: '^2.0.0'
+flutter: null
+publish_to: 'none'
+dependency_overrides: 
+  pointycastle: '3.8.0'

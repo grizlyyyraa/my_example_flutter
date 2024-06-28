@@ -1,0 +1,25 @@
+name: 'my_example_flutter_cli'
+description: 'A sample command-line application.'
+version: '0.0.0'
+homepage: 'https://github.com/grizlyyyraa/my_example_flutter'
+repository: 'https://github.com/grizlyyyraa/my_example_flutter'
+issue_tracker: 'https://github.com/grizlyyyraa/my_example_flutter/issues'
+documentation: 'https://github.com/grizlyyyraa/my_example_flutter/tree/main/docs'
+funding: 
+  - 'https://github.com/sponsors/grizlyyyraa'
+  - 'https://github.com/sponsors/grizlyyyraa'
+platforms: 
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+environment: 
+  sdk: '>=3.3.3 <4.0.0'
+dev_dependencies: 
+  lints: '^2.1.0'
+  test: '^1.24.0'
+publish_to: 'none'
+dependency_overrides: 
+  pointycastle: '3.8.0'
